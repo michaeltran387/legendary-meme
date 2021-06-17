@@ -1,0 +1,33 @@
+#header-img {
+  width: 100px;
+}
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+#nav-bar {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+@media (min-width: 10px) {
+  :root {
+    background-color: pink;
+  }
+}
+
+form {
+  margin: 25px auto 25px auto;
+  width: 250px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  margin: 10px auto 10px auto;
+}
